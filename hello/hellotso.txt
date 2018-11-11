@@ -1,1 +1,3 @@
-Tämä on hellotso txt testi Helloworld muodossa
+Tämä on hellotso txt testi 
+
+lisäsin uuden rivin git diff toivossa
