@@ -52,13 +52,13 @@ Sitten loin ssh moduulin asentamalla openssh-serverin ensin ja kopioimalla /etc/
 Testasin, että moduuli toimii komennolla: 
  - sudo salt '*' state.apply ssh
 
-> Summary for otso
->------------
->Succeeded: 3 (changed=2)
->Failed:    0
->------------
->Total states run:     3
->Total run time:   1.425 s
+Summary for otso
+>  ------------
+>  Succeeded: 3 (changed=2)
+>  Failed:    0
+>  ------------
+>  Total states run:     3
+>  Total run time:   1.425 s
 
 Toimii!
 
@@ -242,7 +242,9 @@ Summary for otso
  
  Testasin vielä parilla sysstat komennolla **mpstat, pidstat, iostat**, joilla tuli vastauksia. 
  
+ Esimerkki iostat-komennosta:
 
+![Tässä on kuva iostat komennosta, josta näkyy laitteiden nopeudet](/home/xubuntu/Pictures/Screenshot_2018-11-11_23-26-01.png)
  
 
 
