@@ -3,7 +3,7 @@ openssh-server:
 
 /etc/ssh/sshd_config:
  file.managed:
-   - source: salt://sshd_config
+   - source: salt://ssh/sshd_config
 
 sshd:
  service.running:
