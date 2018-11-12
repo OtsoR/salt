@@ -244,7 +244,7 @@ Summary for otso
  
  Esimerkki iostat-komennosta:
 
-![Tässä on kuva iostat komennosta, josta näkyy laitteiden nopeudet](/home/xubuntu/Pictures/Screenshot_2018-11-11_23-26-01.png)
+![Tässä on kuva iostat komennosta, josta näkyy laitteiden nopeudet](https://github.com/OtsoR/salt/blob/master/Screenshot_2018-11-11_23-26-01.png)
  
 
 
